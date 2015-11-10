@@ -1,3 +1,5 @@
+/// BONUS STUFF
+
 if ( typeof window === 'undefined' ) {
   require('../../app/async');
   var expect = require('chai').expect;
